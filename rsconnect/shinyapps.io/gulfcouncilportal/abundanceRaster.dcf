@@ -1,0 +1,9 @@
+name: abundanceRaster
+account: gulfcouncilportal
+server: shinyapps.io
+appId: 90227
+bundleId: 636731
+url: https://gulfcouncilportal.shinyapps.io/abundanceRaster/
+when: 1480966038.91351
+asMultiple: FALSE
+asStatic: FALSE
